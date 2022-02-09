@@ -12,3 +12,6 @@ Questão 3- O que é um repositório?
 
 Questão 4- Os codigos que colocam no Githab, estarão sempre disponiveis para os usuarios da internet?
 Não pois tem opcão de colocar como publico e privado.   
+
+Questão 5- O que e VCS? 
+Software de controle de versão 
