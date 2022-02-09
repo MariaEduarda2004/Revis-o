@@ -6,3 +6,6 @@ Os sistemas de controle de versão são ferramentas de software que ajudam
 
 Questão 2- Quais linguagens posso utilizar para o trabalho com o Githab?
 Qulquer linguagem 
+
+Questão 3- O que é um repositório? 
+ A pasta onde sera colocado os arquivos do projeto 
