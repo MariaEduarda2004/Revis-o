@@ -15,3 +15,6 @@ Não pois tem opcão de colocar como publico e privado.
 
 Questão 5- O que e VCS? 
 Software de controle de versão 
+
+Questão 6- O que é branch?
+Ramificações dos repositórios 
