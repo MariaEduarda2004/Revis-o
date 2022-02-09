@@ -30,5 +30,9 @@ Nada mais é que uma cópia de um repositório.
  que você possa experimentar mudanças e feature novas sem precisar utilizar
  o repositório principal.
 
+Questão 9- O que é o clone 
+Pegar o repositório remoto e clonar para o repositório local.
+
+
 
 
