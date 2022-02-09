@@ -8,4 +8,7 @@ Questão 2- Quais linguagens posso utilizar para o trabalho com o Githab?
 Qulquer linguagem 
 
 Questão 3- O que é um repositório? 
- A pasta onde sera colocado os arquivos do projeto 
+ A pasta onde sera colocado os arquivos do projeto
+
+Questão 4- Os codigos que colocam no Githab, estarão sempre disponiveis para os usuarios da internet?
+Não pois tem opcão de colocar como publico e privado.   
