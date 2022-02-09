@@ -24,4 +24,11 @@ Questão 7- O que é pull request?
  no repositório, de forma que facilite ser revisado e/ou discutido
  entre todos os membros do time. 
 
+Questão 8- O que é fork?
+Nada mais é que uma cópia de um repositório.
+ Esta cópia vira um clone do estado atual do repositório, fazendo assim com
+ que você possa experimentar mudanças e feature novas sem precisar utilizar
+ o repositório principal.
+
+
 
